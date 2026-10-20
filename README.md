@@ -458,7 +458,7 @@
 | Animate： 有趣的，跨浏览器的 css3 动画库 | [https://animate.style/](https://animate.style/) |
 | sass：Sass 是一种 CSS 的预编译语言，Sass 为 CSS 赋予了更强大的功能 | [https://sass.bootcss.com/documentation](https://sass.bootcss.com/documentation) |
 | less：Less 是一门 CSS 预处理语言,它扩展了 CSS 语言,增加了变量、Mixin、函数等特性 | [https://less.bootcss.com/](https://less.bootcss.com/) |
-| cssdeck：在线 CSS 前端代码 Demo 样式效果 | [http://cssdeck.com/](http://cssdeck.com/) |
+| Coddy：在线 HTML/CSS/JS 编辑器，实时预览，无需注册 | [https://coddy.tech/playground/html](https://coddy.tech/playground/html) |
 | codepen：前端炫酷样式效果，各种 loading 效果，在线编程，Vue 组件也特别多 | [https://codepen.io/](https://codepen.io/) |
 | cubic-bezier：CSS3 贝塞尔曲线在线调试工具 | [https://cubic-bezier.com/](https://cubic-bezier.com/) |
 | Snapsvg：SVG 动效的 JS 库,各种炫酷的效果。 | [http://snapsvg.io/](http://snapsvg.io/) |
